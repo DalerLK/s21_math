@@ -1,2 +1,2 @@
 # s21_math
-realization of math library
+realization of function from math.h library with long double return value
